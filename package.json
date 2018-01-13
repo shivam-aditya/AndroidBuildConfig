@@ -1,0 +1,25 @@
+{
+  "name": "react-native-android-build-config",
+  "version": "0.0.3",
+  "description": "This library is made for getting the build config values from android native to React native javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Shivam Aditya",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-aditya/AndroidBuildConfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivam-aditya/AndroidBuildConfig/issues"
+  },
+  "homepage": "https://github.com/shivam-aditya/AndroidBuildConfig#readme"
+}
