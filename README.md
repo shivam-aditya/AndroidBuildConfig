@@ -1,6 +1,8 @@
 
 # react-native-android-build-config
 
+This is an under development library
+
 ## Getting started
 
 `$ npm install react-native-android-build-config --save`
