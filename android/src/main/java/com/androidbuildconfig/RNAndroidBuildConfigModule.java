@@ -54,7 +54,7 @@ public class RNAndroidBuildConfigModule extends ReactContextBaseJavaModule {
     @ReactMethod
     public void getUtmSource(Promise promise) {
         String utmSource = this.buildConfigConstants.get("DEFAULT_UTM_SOURCE").toString();
-        Log.d(NAME, "UtmSource from getUtmSource in RNAndroidBuildConfig is" + utmSource);
+        Log.d(NAME, "UtmSource from getUtmSource in RNAndroidBuildConfig is: " + utmSource);
         promise.resolve(utmSource);
     }
 
